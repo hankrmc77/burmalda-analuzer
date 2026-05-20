@@ -1,0 +1,416 @@
+{"timestamp": "2026-05-19T06:35:08.346283Z", "event": "agent_start", "data": {"version": "1.0.0", "model": "claude-opus-4-5"}}
+{"timestamp": "2026-05-19T06:35:36.239359Z", "event": "live_mode_start", "data": {"timestamp": "2026-05-19T06:35:36.239324"}}
+{"timestamp": "2026-05-19T06:35:36.239750Z", "event": "log_entry", "data": {"ip": "33.223.26.164", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:37.283596Z", "event": "log_entry", "data": {"ip": "135.127.84.71", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:40.291542Z", "event": "log_entry", "data": {"ip": "138.46.90.43", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:41.278910Z", "event": "log_entry", "data": {"ip": "98.217.139.55", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:42.092269Z", "event": "log_entry", "data": {"ip": "235.193.149.56", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:43.874235Z", "event": "log_entry", "data": {"ip": "133.122.186.121", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:46.321008Z", "event": "log_entry", "data": {"ip": "205.104.32.45", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:47.774403Z", "event": "log_entry", "data": {"ip": "93.55.239.53", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:49.123903Z", "event": "log_entry", "data": {"ip": "29.248.18.227", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:51.241855Z", "event": "log_entry", "data": {"ip": "141.14.11.18", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:55.191861Z", "event": "log_entry", "data": {"ip": "27.94.156.209", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:56.146261Z", "event": "log_entry", "data": {"ip": "59.47.30.29", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:58.061491Z", "event": "log_entry", "data": {"ip": "39.93.195.253", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:35:59.796337Z", "event": "log_entry", "data": {"ip": "224.161.154.189", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:00.689100Z", "event": "log_entry", "data": {"ip": "126.253.191.163", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:05.953199Z", "event": "log_entry", "data": {"ip": "166.252.250.221", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:07.568659Z", "event": "log_entry", "data": {"ip": "216.17.97.8", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:12.988738Z", "event": "log_entry", "data": {"ip": "104.68.152.60", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:15.090494Z", "event": "log_entry", "data": {"ip": "27.144.16.250", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:17.951214Z", "event": "log_entry", "data": {"ip": "35.176.65.52", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:18.815587Z", "event": "log_entry", "data": {"ip": "190.219.0.114", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:21.064811Z", "event": "log_entry", "data": {"ip": "153.32.33.155", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:23.046684Z", "event": "log_entry", "data": {"ip": "241.154.210.92", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:24.890459Z", "event": "log_entry", "data": {"ip": "39.251.177.121", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:26.175987Z", "event": "log_entry", "data": {"ip": "70.210.107.20", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:27.528611Z", "event": "log_entry", "data": {"ip": "100.70.169.213", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:29.805583Z", "event": "log_entry", "data": {"ip": "73.113.115.30", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:31.840821Z", "event": "log_entry", "data": {"ip": "83.92.236.9", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:33.362690Z", "event": "log_entry", "data": {"ip": "135.203.16.73", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:35.147822Z", "event": "log_entry", "data": {"ip": "15.227.235.234", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:36:35.534865Z", "event": "live_mode_stop", "data": {"total_ips_tracked": 30}}
+{"timestamp": "2026-05-19T06:37:19.357994Z", "event": "chat_input", "data": {"message": "hello say about this: [LOG] May 19 06:35:36 sshd[1337]: Failed password for root from 33.223.26.164 port 21 ssh2"}}
+{"timestamp": "2026-05-19T06:50:56.053006Z", "event": "agent_start", "data": {"version": "1.0.0", "model": "claude-opus-4-5"}}
+{"timestamp": "2026-05-19T06:51:29.178832Z", "event": "file_analysis", "data": {"file": "testlog.txt", "fails": 21, "success": 1, "unique_ips": 2}}
+{"timestamp": "2026-05-19T06:51:30.618047Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "HIGH", "fails": 13, "geo": "United States / Fremont / Linode"}}
+{"timestamp": "2026-05-19T06:51:30.618266Z", "event": "ai_analysis_start", "data": {"ip": "45.33.32.156", "fails": 13, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T06:51:35.257936Z", "event": "ai_analysis_complete", "data": {"ip": "45.33.32.156", "result": "VERDICT: BLOCK\nCONFIDENCE: HIGH\nREASONING: 13 failed login attempts from a single IP constitutes a clear brute-force authentication attack pattern that warrants immediate defensive action.\nACTION: Implement firewall rule to block 45.33.32.156 at the perimeter and add to threat intelligence blocklist with 24-hour TTL pending further investigation.\nSELF-CHECK: Analysis lacks context on whether this IP has any legitimate business association, the time window of the attempts, target accounts/services, and geographic/ASN attribution\u2014recommend enrichment before permanent blocking.", "tokens_used": 287}}
+{"timestamp": "2026-05-19T06:51:35.635934Z", "event": "threat_detected", "data": {"ip": "192.168.1.100", "level": "MEDIUM", "fails": 8, "geo": "? / ? / ?"}}
+{"timestamp": "2026-05-19T06:51:35.636161Z", "event": "ai_analysis_start", "data": {"ip": "192.168.1.100", "fails": 8, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T06:51:41.476885Z", "event": "ai_analysis_complete", "data": {"ip": "192.168.1.100", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 8 failed login attempts from an internal IP (192.168.1.100) within a live monitoring context suggests potential credential stuffing, brute force attempt, or a legitimate user experiencing access issues\u2014internal origin warrants investigation before blocking.\nACTION: Correlate this IP against asset inventory and Active Directory logs to identify the associated user/device, then review authentication logs for timing patterns and targeted accounts.\nSELF-CHECK: Missing critical context\u2014timeframe of attempts, targeted account(s), success after failures, user/device identity, baseline normal behavior for this IP, and whether MFA is in place.", "tokens_used": 303}}
+{"timestamp": "2026-05-19T06:52:30.329908Z", "event": "agent_start", "data": {"version": "1.0.0", "model": "claude-opus-4-5"}}
+{"timestamp": "2026-05-19T06:52:42.207076Z", "event": "file_analysis", "data": {"file": "testlog.txt", "fails": 21, "success": 1, "unique_ips": 2}}
+{"timestamp": "2026-05-19T06:52:42.912771Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "HIGH", "fails": 13, "geo": "United States / Fremont / Linode"}}
+{"timestamp": "2026-05-19T06:52:42.912983Z", "event": "ai_analysis_start", "data": {"ip": "45.33.32.156", "fails": 13, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T06:52:48.270053Z", "event": "ai_analysis_complete", "data": {"ip": "45.33.32.156", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 13 failed login attempts from a single IP warrants investigation, but without additional context (timeframe, target accounts, geographic origin, or whether this IP has legitimate association with the organization), immediate blocking may be premature.\nACTION: Query authentication logs for the past 24 hours to determine attack velocity, targeted accounts, and whether any successful authentications occurred from this IP.\nSELF-CHECK: Missing critical context \u2014 attack timeframe, targeted account types (privileged vs. standard), source geolocation, historical reputation data for this IP, and whether concurrent indicators (port scanning, other IPs in same range) exist.", "tokens_used": 305}}
+{"timestamp": "2026-05-19T06:52:48.749461Z", "event": "threat_detected", "data": {"ip": "192.168.1.100", "level": "MEDIUM", "fails": 8, "geo": "? / ? / ?"}}
+{"timestamp": "2026-05-19T06:52:48.749670Z", "event": "ai_analysis_start", "data": {"ip": "192.168.1.100", "fails": 8, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T06:52:54.386082Z", "event": "ai_analysis_complete", "data": {"ip": "192.168.1.100", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 8 failed login attempts from a single internal IP indicates potential credential stuffing, brute force attempt, or a legitimate user with password issues, but insufficient data to confirm malicious intent.\nACTION: Correlate this IP against asset inventory and Active Directory logs to determine if this is a known user endpoint, then review the targeted accounts and timing pattern of the failures.\nSELF-CHECK: Missing critical context \u2014 I don't know the timeframe of these attempts, which accounts were targeted, whether this is a workstation/server/VPN endpoint, or if there's any successful authentication mixed in. Internal IP could be compromised host or innocent user.", "tokens_used": 310}}
+{"timestamp": "2026-05-19T06:53:09.924965Z", "event": "live_mode_start", "data": {"timestamp": "2026-05-19T06:53:09.924934"}}
+{"timestamp": "2026-05-19T06:53:11.452389Z", "event": "log_entry", "data": {"ip": "213.91.231.107", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:16.702352Z", "event": "log_entry", "data": {"ip": "85.115.28.88", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:18.967486Z", "event": "log_entry", "data": {"ip": "206.134.118.179", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:21.121643Z", "event": "log_entry", "data": {"ip": "142.19.141.89", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:23.201853Z", "event": "log_entry", "data": {"ip": "75.245.11.18", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:24.010281Z", "event": "log_entry", "data": {"ip": "36.172.217.129", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:26.222584Z", "event": "log_entry", "data": {"ip": "94.51.109.7", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:27.301578Z", "event": "log_entry", "data": {"ip": "52.68.231.165", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:31.421671Z", "event": "log_entry", "data": {"ip": "228.124.140.160", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:32.530894Z", "event": "log_entry", "data": {"ip": "202.77.243.111", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:34.876405Z", "event": "log_entry", "data": {"ip": "110.73.241.213", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:37.276368Z", "event": "log_entry", "data": {"ip": "170.68.166.70", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:39.020291Z", "event": "log_entry", "data": {"ip": "153.45.8.33", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:40.150738Z", "event": "log_entry", "data": {"ip": "242.168.100.127", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:42.248707Z", "event": "log_entry", "data": {"ip": "12.199.253.65", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:43.940354Z", "event": "log_entry", "data": {"ip": "211.136.25.65", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:45.793811Z", "event": "log_entry", "data": {"ip": "64.5.225.216", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:47.449706Z", "event": "log_entry", "data": {"ip": "110.251.252.55", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:48.849502Z", "event": "log_entry", "data": {"ip": "213.202.53.184", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:50.886463Z", "event": "log_entry", "data": {"ip": "193.14.197.193", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:53.940969Z", "event": "log_entry", "data": {"ip": "24.245.113.142", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:55.113675Z", "event": "log_entry", "data": {"ip": "26.208.22.175", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:57.564866Z", "event": "log_entry", "data": {"ip": "212.170.181.52", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:53:59.840082Z", "event": "log_entry", "data": {"ip": "30.62.144.95", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:54:00.936495Z", "event": "log_entry", "data": {"ip": "229.21.24.170", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:54:03.245021Z", "event": "log_entry", "data": {"ip": "31.47.70.189", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:54:04.504872Z", "event": "log_entry", "data": {"ip": "94.59.188.89", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:54:06.079361Z", "event": "log_entry", "data": {"ip": "207.69.82.170", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T06:54:06.204972Z", "event": "live_mode_stop", "data": {"total_ips_tracked": 28}}
+{"timestamp": "2026-05-19T06:54:54.002031Z", "event": "chat_input", "data": {"message": "check IP 45.33.32.156 it made 13 failed attempts"}}
+{"timestamp": "2026-05-19T06:55:03.715077Z", "event": "chat_output", "data": {"tokens": 394}}
+{"timestamp": "2026-05-19T06:55:32.799050Z", "event": "chat_input", "data": {"message": "thanks you"}}
+{"timestamp": "2026-05-19T06:55:35.766915Z", "event": "chat_output", "data": {"tokens": 47}}
+{"timestamp": "2026-05-19T06:56:05.188821Z", "event": "agent_stop", "data": {}}
+{"timestamp": "2026-05-19T07:17:23.552751Z", "event": "agent_start", "data": {"version": "1.0.0", "model": "claude-opus-4-5"}}
+{"timestamp": "2026-05-19T07:17:32.184024Z", "event": "live_mode_start", "data": {"timestamp": "2026-05-19T07:17:32.183993"}}
+{"timestamp": "2026-05-19T07:17:32.184397Z", "event": "log_entry", "data": {"ip": "15.182.83.96", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:35.272843Z", "event": "log_entry", "data": {"ip": "19.254.208.119", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:36.605838Z", "event": "log_entry", "data": {"ip": "13.247.28.50", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:38.064826Z", "event": "log_entry", "data": {"ip": "183.140.189.229", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:39.601469Z", "event": "log_entry", "data": {"ip": "70.39.53.62", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:45.583752Z", "event": "log_entry", "data": {"ip": "241.255.133.186", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:46.437715Z", "event": "log_entry", "data": {"ip": "9.85.124.173", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:49.652609Z", "event": "log_entry", "data": {"ip": "241.101.201.189", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:51.510268Z", "event": "log_entry", "data": {"ip": "67.138.162.104", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:53.118026Z", "event": "log_entry", "data": {"ip": "140.143.72.10", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:54.262272Z", "event": "log_entry", "data": {"ip": "43.131.160.31", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:17:56.519236Z", "event": "log_entry", "data": {"ip": "176.3.124.190", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:00.260376Z", "event": "log_entry", "data": {"ip": "249.208.72.34", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:04.521624Z", "event": "log_entry", "data": {"ip": "183.181.139.24", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:05.741360Z", "event": "log_entry", "data": {"ip": "103.117.113.97", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:08.137761Z", "event": "log_entry", "data": {"ip": "143.14.164.209", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:09.536033Z", "event": "log_entry", "data": {"ip": "173.124.120.103", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:10.875934Z", "event": "log_entry", "data": {"ip": "12.177.150.26", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:15.736922Z", "event": "log_entry", "data": {"ip": "172.207.246.180", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:19.421476Z", "event": "log_entry", "data": {"ip": "81.145.249.127", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:21.162767Z", "event": "log_entry", "data": {"ip": "125.111.34.70", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:23.276778Z", "event": "log_entry", "data": {"ip": "11.114.5.11", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:25.682210Z", "event": "log_entry", "data": {"ip": "7.109.162.203", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:28.070167Z", "event": "log_entry", "data": {"ip": "191.193.27.87", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:29.070567Z", "event": "log_entry", "data": {"ip": "150.62.89.2", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:30.720123Z", "event": "log_entry", "data": {"ip": "196.84.242.42", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:32.388548Z", "event": "log_entry", "data": {"ip": "167.228.215.135", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:34.271239Z", "event": "log_entry", "data": {"ip": "56.35.145.137", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:36.026528Z", "event": "log_entry", "data": {"ip": "46.172.184.248", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:38.340116Z", "event": "log_entry", "data": {"ip": "103.211.35.60", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:40.723829Z", "event": "log_entry", "data": {"ip": "66.52.212.180", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:41.692919Z", "event": "log_entry", "data": {"ip": "59.32.83.96", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:43.387911Z", "event": "log_entry", "data": {"ip": "106.4.253.95", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:45.721250Z", "event": "log_entry", "data": {"ip": "103.197.187.34", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:47.978630Z", "event": "log_entry", "data": {"ip": "190.173.172.126", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:49.183722Z", "event": "log_entry", "data": {"ip": "254.78.240.200", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:50.140261Z", "event": "log_entry", "data": {"ip": "248.155.15.97", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:52.230654Z", "event": "log_entry", "data": {"ip": "10.103.174.115", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:18:55.815171Z", "event": "log_entry", "data": {"ip": "188.12.0.102", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:00.138401Z", "event": "log_entry", "data": {"ip": "164.185.153.137", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:02.956168Z", "event": "log_entry", "data": {"ip": "118.9.1.55", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:05.186414Z", "event": "log_entry", "data": {"ip": "8.247.61.1", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:10.674732Z", "event": "log_entry", "data": {"ip": "179.191.146.83", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:12.128421Z", "event": "log_entry", "data": {"ip": "224.123.102.128", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:13.509145Z", "event": "log_entry", "data": {"ip": "230.187.183.139", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:14.894663Z", "event": "log_entry", "data": {"ip": "5.94.124.253", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:16.038949Z", "event": "log_entry", "data": {"ip": "81.190.130.179", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:19.645765Z", "event": "log_entry", "data": {"ip": "115.39.214.107", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:20.694527Z", "event": "log_entry", "data": {"ip": "95.120.124.98", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:22.003640Z", "event": "log_entry", "data": {"ip": "184.104.193.39", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:23.287795Z", "event": "log_entry", "data": {"ip": "218.161.83.25", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:25.477521Z", "event": "log_entry", "data": {"ip": "222.34.46.191", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:28.937056Z", "event": "log_entry", "data": {"ip": "150.8.3.218", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:31.111598Z", "event": "log_entry", "data": {"ip": "196.22.5.251", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:32.128286Z", "event": "log_entry", "data": {"ip": "123.110.133.9", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:36.394703Z", "event": "log_entry", "data": {"ip": "33.98.197.91", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:39.990088Z", "event": "log_entry", "data": {"ip": "237.163.28.181", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:40.951796Z", "event": "log_entry", "data": {"ip": "186.152.150.12", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:43.102679Z", "event": "log_entry", "data": {"ip": "55.33.177.231", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:44.555506Z", "event": "log_entry", "data": {"ip": "9.99.5.77", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:45.655698Z", "event": "log_entry", "data": {"ip": "85.127.175.160", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:47.767289Z", "event": "log_entry", "data": {"ip": "69.131.167.144", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:49.168888Z", "event": "log_entry", "data": {"ip": "201.30.177.209", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:50.812787Z", "event": "log_entry", "data": {"ip": "213.35.60.180", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:53.173207Z", "event": "log_entry", "data": {"ip": "85.184.187.220", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:53.989812Z", "event": "log_entry", "data": {"ip": "247.214.19.157", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:56.076780Z", "event": "log_entry", "data": {"ip": "138.46.93.174", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:19:58.796895Z", "event": "log_entry", "data": {"ip": "57.141.138.36", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:00.727487Z", "event": "log_entry", "data": {"ip": "55.167.99.218", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:04.863551Z", "event": "log_entry", "data": {"ip": "141.193.18.238", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:06.288093Z", "event": "log_entry", "data": {"ip": "175.121.248.225", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:08.300172Z", "event": "log_entry", "data": {"ip": "248.45.37.145", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:10.246539Z", "event": "log_entry", "data": {"ip": "22.120.177.241", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:11.545064Z", "event": "log_entry", "data": {"ip": "99.213.37.230", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:15.619597Z", "event": "log_entry", "data": {"ip": "231.150.229.120", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:17.165294Z", "event": "log_entry", "data": {"ip": "188.234.206.203", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:18.744377Z", "event": "log_entry", "data": {"ip": "254.71.156.161", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:19.619627Z", "event": "log_entry", "data": {"ip": "189.106.140.118", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:23.853480Z", "event": "log_entry", "data": {"ip": "161.202.122.106", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:25.025386Z", "event": "log_entry", "data": {"ip": "79.32.246.133", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:27.274037Z", "event": "log_entry", "data": {"ip": "119.48.192.94", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:28.235213Z", "event": "log_entry", "data": {"ip": "156.13.148.201", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:30.394200Z", "event": "log_entry", "data": {"ip": "243.61.218.21", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:33.096467Z", "event": "log_entry", "data": {"ip": "65.157.110.92", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:37.615576Z", "event": "log_entry", "data": {"ip": "108.51.141.232", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:38.713783Z", "event": "log_entry", "data": {"ip": "70.145.177.35", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:40.198615Z", "event": "log_entry", "data": {"ip": "55.218.153.146", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:41.903286Z", "event": "log_entry", "data": {"ip": "186.54.243.216", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:45.072416Z", "event": "log_entry", "data": {"ip": "124.181.22.37", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:47.197101Z", "event": "log_entry", "data": {"ip": "137.14.36.48", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:49.406170Z", "event": "log_entry", "data": {"ip": "152.61.70.152", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:51.489242Z", "event": "log_entry", "data": {"ip": "17.91.221.20", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:52.613686Z", "event": "log_entry", "data": {"ip": "109.169.30.27", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:20:57.826291Z", "event": "log_entry", "data": {"ip": "244.43.39.142", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:01.987809Z", "event": "log_entry", "data": {"ip": "150.96.107.183", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:03.861331Z", "event": "log_entry", "data": {"ip": "235.15.0.222", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:07.270009Z", "event": "log_entry", "data": {"ip": "36.128.174.104", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:09.805272Z", "event": "log_entry", "data": {"ip": "80.32.137.79", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:11.979437Z", "event": "log_entry", "data": {"ip": "46.253.80.174", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:13.851296Z", "event": "log_entry", "data": {"ip": "12.2.223.90", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:14.956450Z", "event": "log_entry", "data": {"ip": "50.153.91.101", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:17.255050Z", "event": "log_entry", "data": {"ip": "52.239.198.222", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:19.503420Z", "event": "log_entry", "data": {"ip": "183.231.63.197", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:20.739083Z", "event": "log_entry", "data": {"ip": "226.139.170.125", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:25.810491Z", "event": "log_entry", "data": {"ip": "209.150.221.252", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:28.155293Z", "event": "log_entry", "data": {"ip": "127.186.3.127", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:30.315156Z", "event": "log_entry", "data": {"ip": "249.79.238.241", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:31.350978Z", "event": "log_entry", "data": {"ip": "55.217.233.210", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:33.495288Z", "event": "log_entry", "data": {"ip": "106.216.43.239", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:35.288049Z", "event": "log_entry", "data": {"ip": "169.67.7.117", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:36.250095Z", "event": "log_entry", "data": {"ip": "149.124.216.77", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:37.264357Z", "event": "log_entry", "data": {"ip": "159.82.34.178", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:39.187496Z", "event": "log_entry", "data": {"ip": "138.99.24.251", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:43.339257Z", "event": "log_entry", "data": {"ip": "172.138.185.88", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:45.506015Z", "event": "log_entry", "data": {"ip": "53.152.111.33", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:47.955907Z", "event": "log_entry", "data": {"ip": "162.28.234.235", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:49.175444Z", "event": "log_entry", "data": {"ip": "218.171.202.188", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:51.278923Z", "event": "log_entry", "data": {"ip": "54.117.231.24", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:52.146286Z", "event": "log_entry", "data": {"ip": "123.188.25.25", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:54.554402Z", "event": "log_entry", "data": {"ip": "113.25.34.242", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:55.734440Z", "event": "log_entry", "data": {"ip": "220.133.48.91", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:21:59.411637Z", "event": "log_entry", "data": {"ip": "158.215.176.34", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:22:00.407403Z", "event": "live_mode_stop", "data": {"total_ips_tracked": 122}}
+{"timestamp": "2026-05-19T07:22:05.473354Z", "event": "agent_stop", "data": {}}
+{"timestamp": "2026-05-19T07:24:21.246292Z", "event": "agent_start", "data": {"version": "1.0.0", "model": "claude-opus-4-5"}}
+{"timestamp": "2026-05-19T07:24:27.889878Z", "event": "agent_stop", "data": {}}
+{"timestamp": "2026-05-19T07:24:45.649401Z", "event": "agent_start", "data": {"version": "1.0.0", "model": "claude-opus-4-5"}}
+{"timestamp": "2026-05-19T07:24:50.139631Z", "event": "live_mode_start", "data": {"timestamp": "2026-05-19T07:24:50.139598"}}
+{"timestamp": "2026-05-19T07:24:50.140066Z", "event": "log_entry", "data": {"ip": "30.222.102.126", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:36.379683Z", "event": "agent_start", "data": {"version": "1.0.0", "model": "claude-opus-4-5"}}
+{"timestamp": "2026-05-19T07:27:43.757057Z", "event": "live_mode_start", "data": {"timestamp": "2026-05-19T07:27:43.757032"}}
+{"timestamp": "2026-05-19T07:27:43.957669Z", "event": "log_entry", "data": {"ip": "230.58.214.35", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:44.358441Z", "event": "log_entry", "data": {"ip": "102.127.141.105", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:44.558941Z", "event": "log_entry", "data": {"ip": "207.76.185.22", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:44.759304Z", "event": "log_entry", "data": {"ip": "43.1.183.34", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:44.960075Z", "event": "log_entry", "data": {"ip": "201.55.105.188", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:45.361456Z", "event": "log_entry", "data": {"ip": "97.111.76.66", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:45.762212Z", "event": "log_entry", "data": {"ip": "205.76.154.198", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:45.962719Z", "event": "log_entry", "data": {"ip": "132.187.241.180", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:46.163241Z", "event": "log_entry", "data": {"ip": "163.169.134.210", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:46.363698Z", "event": "log_entry", "data": {"ip": "74.126.198.37", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:46.564180Z", "event": "log_entry", "data": {"ip": "67.196.56.96", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:46.764767Z", "event": "log_entry", "data": {"ip": "123.61.53.239", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:46.965250Z", "event": "log_entry", "data": {"ip": "216.170.24.4", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:47.165653Z", "event": "log_entry", "data": {"ip": "164.86.214.167", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:47.566487Z", "event": "log_entry", "data": {"ip": "155.206.140.185", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:47.767095Z", "event": "log_entry", "data": {"ip": "206.233.174.41", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:47.967745Z", "event": "log_entry", "data": {"ip": "133.14.107.81", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:48.168287Z", "event": "log_entry", "data": {"ip": "178.106.28.223", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:48.368880Z", "event": "log_entry", "data": {"ip": "195.150.104.226", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:48.569313Z", "event": "log_entry", "data": {"ip": "140.117.206.145", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:48.970034Z", "event": "log_entry", "data": {"ip": "228.40.60.72", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:49.771487Z", "event": "log_entry", "data": {"ip": "48.99.86.187", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:49.972483Z", "event": "log_entry", "data": {"ip": "156.111.142.79", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:50.173086Z", "event": "log_entry", "data": {"ip": "52.151.1.43", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:50.573760Z", "event": "log_entry", "data": {"ip": "248.10.220.54", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:50.774298Z", "event": "log_entry", "data": {"ip": "101.22.208.133", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:50.974898Z", "event": "log_entry", "data": {"ip": "66.172.127.166", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:51.175335Z", "event": "log_entry", "data": {"ip": "131.159.130.35", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:51.375881Z", "event": "log_entry", "data": {"ip": "197.78.111.11", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:51.976878Z", "event": "log_entry", "data": {"ip": "164.57.161.50", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:52.177333Z", "event": "log_entry", "data": {"ip": "16.224.185.247", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:52.377831Z", "event": "log_entry", "data": {"ip": "84.5.216.173", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:52.578328Z", "event": "log_entry", "data": {"ip": "97.173.13.215", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:52.778784Z", "event": "log_entry", "data": {"ip": "93.144.87.193", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:52.979336Z", "event": "log_entry", "data": {"ip": "95.140.50.138", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:53.179958Z", "event": "log_entry", "data": {"ip": "172.180.98.10", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:53.380484Z", "event": "log_entry", "data": {"ip": "252.122.134.48", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:53.581017Z", "event": "log_entry", "data": {"ip": "225.88.254.143", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:53.981880Z", "event": "log_entry", "data": {"ip": "215.25.181.193", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:54.182457Z", "event": "log_entry", "data": {"ip": "65.220.210.70", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:54.382858Z", "event": "log_entry", "data": {"ip": "46.120.41.251", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:54.583217Z", "event": "log_entry", "data": {"ip": "127.54.9.177", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:54.783644Z", "event": "log_entry", "data": {"ip": "29.61.234.147", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:55.184647Z", "event": "log_entry", "data": {"ip": "116.176.229.107", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:55.385125Z", "event": "log_entry", "data": {"ip": "254.105.119.2", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:55.585541Z", "event": "log_entry", "data": {"ip": "30.77.83.225", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:55.986388Z", "event": "log_entry", "data": {"ip": "55.123.201.199", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:56.186982Z", "event": "log_entry", "data": {"ip": "73.244.117.87", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:56.387584Z", "event": "log_entry", "data": {"ip": "144.213.106.148", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:56.588143Z", "event": "log_entry", "data": {"ip": "34.72.228.19", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:56.788647Z", "event": "log_entry", "data": {"ip": "132.245.124.236", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:56.989164Z", "event": "log_entry", "data": {"ip": "174.124.186.84", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:57.189671Z", "event": "log_entry", "data": {"ip": "148.39.153.165", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:57.390232Z", "event": "log_entry", "data": {"ip": "250.140.208.240", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:27:57.790964Z", "event": "log_entry", "data": {"ip": "84.135.208.55", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:35:29.539819Z", "event": "agent_start", "data": {"version": "1.0.0", "model": "claude-opus-4-5"}}
+{"timestamp": "2026-05-19T07:35:43.719105Z", "event": "live_mode_start", "data": {"timestamp": "2026-05-19T07:35:43.719078"}}
+{"timestamp": "2026-05-19T07:35:43.719443Z", "event": "log_entry", "data": {"ip": "192.168.1.100", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:35:43.919739Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:35:44.320404Z", "event": "log_entry", "data": {"ip": "203.0.113.42", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:35:44.520885Z", "event": "log_entry", "data": {"ip": "192.168.1.100", "status": "FAIL", "fails": 2}}
+{"timestamp": "2026-05-19T07:35:44.721346Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 2}}
+{"timestamp": "2026-05-19T07:35:44.921813Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:35:45.122284Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 3}}
+{"timestamp": "2026-05-19T07:36:03.308817Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "LOW", "fails": 3, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:03.509365Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 2}}
+{"timestamp": "2026-05-19T07:36:03.711015Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 4}}
+{"timestamp": "2026-05-19T07:36:07.003953Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "LOW", "fails": 4, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:07.204592Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 5}}
+{"timestamp": "2026-05-19T07:36:10.292687Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "LOW", "fails": 5, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:10.493052Z", "event": "log_entry", "data": {"ip": "203.0.113.42", "status": "FAIL", "fails": 2}}
+{"timestamp": "2026-05-19T07:36:10.693511Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 6}}
+{"timestamp": "2026-05-19T07:36:13.784790Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "LOW", "fails": 6, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:14.185696Z", "event": "log_entry", "data": {"ip": "192.168.1.100", "status": "FAIL", "fails": 3}}
+{"timestamp": "2026-05-19T07:36:17.280834Z", "event": "threat_detected", "data": {"ip": "192.168.1.100", "level": "LOW", "fails": 3, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:17.481365Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 1}}
+{"timestamp": "2026-05-19T07:36:17.681919Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 2}}
+{"timestamp": "2026-05-19T07:36:17.882430Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 7}}
+{"timestamp": "2026-05-19T07:36:20.972398Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "MEDIUM", "fails": 7, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:20.973033Z", "event": "ai_analysis_start", "data": {"ip": "45.33.32.156", "fails": 7, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:36:28.042409Z", "event": "ai_analysis_complete", "data": {"ip": "45.33.32.156", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 7 failed login attempts from a single IP warrants investigation but is below typical brute-force thresholds (usually 10+ in short timeframes), and 45.33.32.156 is a well-known Nmap/scanme.nmap.org test IP, suggesting possible legitimate security testing or reconnaissance rather than confirmed malicious activity.\nACTION: Correlate this IP against authentication logs for the past 24 hours to determine attempt velocity, target accounts, and whether any successful authentications occurred.\nSELF-CHECK: Missing critical context\u2014timeframe of attempts, targeted account(s), geographic baseline, whether this IP has prior history in our environment, and current threat intel feed status for this indicator.", "tokens_used": 328}}
+{"timestamp": "2026-05-19T07:36:28.242996Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 3}}
+{"timestamp": "2026-05-19T07:36:31.336813Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "LOW", "fails": 3, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:31.537288Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 8}}
+{"timestamp": "2026-05-19T07:36:39.542538Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "MEDIUM", "fails": 8, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:39.542798Z", "event": "ai_analysis_start", "data": {"ip": "45.33.32.156", "fails": 8, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:36:44.716483Z", "event": "ai_analysis_complete", "data": {"ip": "45.33.32.156", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 8 failed login attempts from a single IP suggests a potential brute-force attack or credential stuffing attempt, but the threshold is below typical automated attack volumes and could also indicate a legitimate user with password issues.\nACTION: Correlate this IP against threat intelligence feeds and check if the targeted account(s) exist and belong to high-value targets, while implementing temporary rate limiting for this source IP.\nSELF-CHECK: Missing context on time window of attempts, which accounts were targeted, geographic baseline for this IP, whether attempts used valid usernames, and historical behavior pattern for this source.", "tokens_used": 298}}
+{"timestamp": "2026-05-19T07:36:44.917143Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 4}}
+{"timestamp": "2026-05-19T07:36:48.012709Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "LOW", "fails": 4, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:48.213302Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 5}}
+{"timestamp": "2026-05-19T07:36:51.500722Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "LOW", "fails": 5, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:51.701173Z", "event": "log_entry", "data": {"ip": "192.168.1.100", "status": "FAIL", "fails": 4}}
+{"timestamp": "2026-05-19T07:36:54.792303Z", "event": "threat_detected", "data": {"ip": "192.168.1.100", "level": "LOW", "fails": 4, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:55.192995Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 3}}
+{"timestamp": "2026-05-19T07:36:58.404714Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "LOW", "fails": 3, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:36:58.605169Z", "event": "log_entry", "data": {"ip": "203.0.113.42", "status": "FAIL", "fails": 3}}
+{"timestamp": "2026-05-19T07:37:01.784691Z", "event": "threat_detected", "data": {"ip": "203.0.113.42", "level": "LOW", "fails": 3, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:01.985149Z", "event": "log_entry", "data": {"ip": "203.0.113.42", "status": "FAIL", "fails": 4}}
+{"timestamp": "2026-05-19T07:37:05.075980Z", "event": "threat_detected", "data": {"ip": "203.0.113.42", "level": "LOW", "fails": 4, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:05.476682Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 4}}
+{"timestamp": "2026-05-19T07:37:08.568731Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "LOW", "fails": 4, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:08.772637Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 5}}
+{"timestamp": "2026-05-19T07:37:12.020291Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "LOW", "fails": 5, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:12.421317Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 9}}
+{"timestamp": "2026-05-19T07:37:15.512716Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "MEDIUM", "fails": 9, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:15.512913Z", "event": "ai_analysis_start", "data": {"ip": "45.33.32.156", "fails": 9, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:37:22.850464Z", "event": "ai_analysis_complete", "data": {"ip": "45.33.32.156", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 9 failed login attempts from a single IP indicates potential brute-force activity, but falls below typical automated attack thresholds and requires additional context (time window, target accounts, source reputation) to confirm malicious intent.\nACTION: Query SIEM for full authentication timeline from this IP in the last 24 hours and cross-reference with threat intelligence feeds for known malicious indicators.\nSELF-CHECK: Missing critical context including: time span of the 9 attempts, whether attempts targeted single or multiple accounts, geographic/ASN information, historical baseline for this IP, and whether any attempts were successful.", "tokens_used": 303}}
+{"timestamp": "2026-05-19T07:37:23.251782Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 6}}
+{"timestamp": "2026-05-19T07:37:26.523957Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "LOW", "fails": 6, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:26.724604Z", "event": "log_entry", "data": {"ip": "203.0.113.42", "status": "FAIL", "fails": 5}}
+{"timestamp": "2026-05-19T07:37:29.812783Z", "event": "threat_detected", "data": {"ip": "203.0.113.42", "level": "LOW", "fails": 5, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:30.013380Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 7}}
+{"timestamp": "2026-05-19T07:37:33.280719Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "MEDIUM", "fails": 7, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:33.280936Z", "event": "ai_analysis_start", "data": {"ip": "103.21.244.0", "fails": 7, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:37:40.728045Z", "event": "ai_analysis_complete", "data": {"ip": "103.21.244.0", "result": "VERDICT: MONITOR\nCONFIDENCE: MEDIUM\nREASONING: 7 failed login attempts is elevated but below typical brute-force thresholds (usually 10-20+), and 103.21.244.0/24 is within Cloudflare's IP range which could indicate legitimate CDN traffic, misconfigured client, or potential IP spoofing.\nACTION: Correlate with request headers (CF-Connecting-IP, User-Agent), check if source is actually proxied traffic, and set alert threshold to trigger BLOCK if attempts reach 15 within 10 minutes.\nSELF-CHECK: Missing critical context \u2014 need to verify if this is the true source IP or a proxy header, what authentication endpoint was targeted, time window of the 7 attempts, and whether any attempts were near-successful (valid usernames).", "tokens_used": 344}}
+{"timestamp": "2026-05-19T07:37:40.928557Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 6}}
+{"timestamp": "2026-05-19T07:37:44.020743Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "LOW", "fails": 6, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:44.221133Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 8}}
+{"timestamp": "2026-05-19T07:37:47.316742Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "MEDIUM", "fails": 8, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:47.317019Z", "event": "ai_analysis_start", "data": {"ip": "103.21.244.0", "fails": 8, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:37:55.677970Z", "event": "ai_analysis_complete", "data": {"ip": "103.21.244.0", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 8 failed login attempts from a single IP warrants investigation, though this count alone is below typical brute-force thresholds (often 10-20+) and the IP 103.21.244.0/24 belongs to Cloudflare's network range, which could indicate proxied traffic or a misconfigured system rather than direct malicious activity.\nACTION: Correlate this IP against authentication logs to identify targeted accounts, check if attempts occurred in rapid succession (indicating automation), and verify if legitimate services are proxied through Cloudflare before escalating.\nSELF-CHECK: Missing critical context \u2014 time window of attempts, targeted username(s), geographic baseline for the environment, whether MFA is enabled, and if this IP has prior history in threat intel feeds; the Cloudflare attribution needs verification as it could affect the response strategy significantly.", "tokens_used": 356}}
+{"timestamp": "2026-05-19T07:37:55.878548Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 7}}
+{"timestamp": "2026-05-19T07:37:58.964792Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "MEDIUM", "fails": 7, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:37:58.965016Z", "event": "ai_analysis_start", "data": {"ip": "198.51.100.5", "fails": 7, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:38:03.664559Z", "event": "ai_analysis_complete", "data": {"ip": "198.51.100.5", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: Seven failed login attempts from a single IP indicates potential brute-force activity, but falls below typical automated attack thresholds and requires additional context to distinguish from legitimate user error.\nACTION: Query authentication logs for this IP to determine target accounts, timing patterns, and whether any attempts succeeded.\nSELF-CHECK: Missing information includes: target account(s), time window of attempts, geographic location of IP, historical behavior of this IP, and whether rate limiting is already in place.", "tokens_used": 273}}
+{"timestamp": "2026-05-19T07:38:03.865016Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 8}}
+{"timestamp": "2026-05-19T07:38:06.948733Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "MEDIUM", "fails": 8, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:38:06.948913Z", "event": "ai_analysis_start", "data": {"ip": "198.51.100.5", "fails": 8, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:38:12.047812Z", "event": "ai_analysis_complete", "data": {"ip": "198.51.100.5", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 8 failed login attempts from a single IP warrants investigation as potential credential stuffing or brute-force attempt, but falls below typical auto-block thresholds and lacks additional context (target accounts, timing pattern, geolocation anomalies).\nACTION: Correlate with authentication logs to determine if attempts targeted single or multiple accounts, and check IP reputation against threat intelligence feeds.\nSELF-CHECK: Missing critical context\u2014time window of attempts, whether any succeeded, account lockout status, IP geolocation/ASN data, and historical behavior of this IP in our environment.", "tokens_used": 298}}
+{"timestamp": "2026-05-19T07:38:12.248412Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 9}}
+{"timestamp": "2026-05-19T07:38:15.672775Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "MEDIUM", "fails": 9, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:38:15.672992Z", "event": "ai_analysis_start", "data": {"ip": "103.21.244.0", "fails": 9, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:38:22.716917Z", "event": "ai_analysis_complete", "data": {"ip": "103.21.244.0", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 9 failed login attempts from a single IP warrants investigation, though this count alone is below typical brute-force thresholds (often 10-20+) and the IP 103.21.244.0/24 is within Cloudflare's published range, which could indicate proxied traffic or misconfiguration rather than direct malicious activity.\nACTION: Correlate this IP against authentication logs for the past 24 hours to determine if attempts targeted multiple accounts (credential stuffing pattern) or a single account (targeted attack), and verify if legitimate Cloudflare traffic is expected in your environment.\nSELF-CHECK: Missing context includes: targeted account(s), time window of attempts, geographic baseline for normal traffic, whether MFA is enforced, and whether this IP has any prior history in your environment \u2014 all of which would significantly change the verdict.", "tokens_used": 356}}
+{"timestamp": "2026-05-19T07:38:22.917429Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 10}}
+{"timestamp": "2026-05-19T07:38:26.102775Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "MEDIUM", "fails": 10, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:38:26.103064Z", "event": "ai_analysis_start", "data": {"ip": "103.21.244.0", "fails": 10, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:38:33.360916Z", "event": "ai_analysis_complete", "data": {"ip": "103.21.244.0", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 10 failed login attempts from a single IP warrants investigation, but this IP falls within Cloudflare's public IP range (103.21.244.0/22), which could indicate traffic proxied through CDN/WAF infrastructure rather than a direct malicious source - the true origin IP may be masked.\nACTION: Check application logs and X-Forwarded-For headers to identify the real client IP behind the Cloudflare proxy before making a blocking decision.\nSELF-CHECK: Missing critical context - I don't know the timeframe of these attempts (10 in 1 minute vs 10 in 24 hours matters significantly), the targeted accounts (single user vs credential stuffing across many), whether this is a shared IP/NAT scenario, and confirmation of current IP ownership - Cloudflare ranges can change.", "tokens_used": 354}}
+{"timestamp": "2026-05-19T07:38:33.561446Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 9}}
+{"timestamp": "2026-05-19T07:38:36.652707Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "MEDIUM", "fails": 9, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:38:36.652897Z", "event": "ai_analysis_start", "data": {"ip": "198.51.100.5", "fails": 9, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:38:42.064480Z", "event": "ai_analysis_complete", "data": {"ip": "198.51.100.5", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 9 failed login attempts from a single IP indicates a potential brute-force attack in progress, but falls below typical auto-block thresholds and requires context on target accounts and timing patterns.\nACTION: Query authentication logs to determine if attempts target single or multiple accounts, check timing intervals, and correlate with threat intelligence for IP 198.51.100.5.\nSELF-CHECK: Missing critical context including time window of attempts, targeted username(s), whether any attempts succeeded, geographic/ASN data for the IP, and baseline normal failed login rates for this environment.", "tokens_used": 296}}
+{"timestamp": "2026-05-19T07:38:42.265222Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 10}}
+{"timestamp": "2026-05-19T07:38:45.355826Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "MEDIUM", "fails": 10, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:38:45.355985Z", "event": "ai_analysis_start", "data": {"ip": "45.33.32.156", "fails": 10, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:38:50.254873Z", "event": "ai_analysis_complete", "data": {"ip": "45.33.32.156", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 10 failed login attempts from a single IP indicates potential brute-force activity, but requires context on timeframe, target accounts, and whether this IP has legitimate historical access before escalating to block.\nACTION: Query authentication logs for this IP over the past 24 hours to determine attack velocity, targeted usernames, and any successful authentications.\nSELF-CHECK: Missing timeframe context (10 attempts over 1 minute vs 1 hour significantly changes severity), no threat intelligence lookup performed on the IP, and unknown whether this is an internal vs external source.", "tokens_used": 295}}
+{"timestamp": "2026-05-19T07:38:50.455498Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 11}}
+{"timestamp": "2026-05-19T07:38:53.540717Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "MEDIUM", "fails": 11, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:38:53.540919Z", "event": "ai_analysis_start", "data": {"ip": "45.33.32.156", "fails": 11, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:38:59.573805Z", "event": "ai_analysis_complete", "data": {"ip": "45.33.32.156", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 11 failed login attempts from a single IP indicates potential brute-force activity, but falls below typical automated attack thresholds and requires context on time window, target accounts, and source reputation before escalation.\nACTION: Query SIEM for full authentication timeline from 45.33.32.156 in last 24 hours, correlate with geo-IP data and known threat intelligence feeds.\nSELF-CHECK: Missing critical context \u2014 time distribution of attempts (burst vs. spread), whether attempts targeted single or multiple accounts, baseline failure rate for this network segment, and current threat intel status of this IP.", "tokens_used": 304}}
+{"timestamp": "2026-05-19T07:38:59.974562Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 10}}
+{"timestamp": "2026-05-19T07:39:03.060791Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "MEDIUM", "fails": 10, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:39:03.061042Z", "event": "ai_analysis_start", "data": {"ip": "198.51.100.5", "fails": 10, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:39:08.588677Z", "event": "ai_analysis_complete", "data": {"ip": "198.51.100.5", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: Ten failed login attempts from a single IP suggests a potential brute-force attack, but without additional context like the time window, targeted accounts, geographic anomalies, or historical behavior of this IP, escalating directly to BLOCK may be premature.\nACTION: Correlate this IP against threat intelligence feeds and recent authentication logs to determine if it's targeting multiple accounts or exhibiting known malicious patterns.\nSELF-CHECK: Missing time window for the 10 attempts, account diversity (single vs. multiple targets), historical reputation of the IP, and whether any attempts succeeded\u2014these gaps limit confidence.", "tokens_used": 300}}
+{"timestamp": "2026-05-19T07:39:08.789284Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 11}}
+{"timestamp": "2026-05-19T07:39:11.879922Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "MEDIUM", "fails": 11, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:39:11.880129Z", "event": "ai_analysis_start", "data": {"ip": "103.21.244.0", "fails": 11, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:39:17.926613Z", "event": "ai_analysis_complete", "data": {"ip": "103.21.244.0", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 11 failed login attempts from a single IP warrants investigation, though 103.21.244.0/24 is a Cloudflare IP range, suggesting this could be legitimate traffic proxied through CDN rather than direct attacker infrastructure.\nACTION: Correlate with application logs to identify target accounts and verify if source is Cloudflare edge (check CF-Connecting-IP header for true client IP).\nSELF-CHECK: Cannot determine true origin IP behind potential CDN proxy; need additional context on targeted usernames, time window of attempts, and whether authentication system logs original client IPs via X-Forwarded-For headers.", "tokens_used": 313}}
+{"timestamp": "2026-05-19T07:39:18.127116Z", "event": "log_entry", "data": {"ip": "45.33.32.156", "status": "FAIL", "fails": 12}}
+{"timestamp": "2026-05-19T07:39:21.220785Z", "event": "threat_detected", "data": {"ip": "45.33.32.156", "level": "HIGH", "fails": 12, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:39:21.221041Z", "event": "ai_analysis_start", "data": {"ip": "45.33.32.156", "fails": 12, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:39:26.709832Z", "event": "ai_analysis_complete", "data": {"ip": "45.33.32.156", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 12 failed login attempts from a single IP warrants investigation, but this IP (45.33.32.156) is associated with scanme.nmap.org, a legitimate testing host, so context is needed to determine if this is authorized testing or actual malicious activity.\nACTION: Correlate this IP against authorized penetration testing schedules and asset inventory, then query authentication logs for targeted accounts and timing patterns.\nSELF-CHECK: Missing information includes which accounts were targeted, time window of attempts, whether any succeeded, source geolocation context, and whether this IP is whitelisted for authorized scanning.", "tokens_used": 304}}
+{"timestamp": "2026-05-19T07:39:26.910371Z", "event": "log_entry", "data": {"ip": "192.168.1.100", "status": "FAIL", "fails": 5}}
+{"timestamp": "2026-05-19T07:39:30.001033Z", "event": "threat_detected", "data": {"ip": "192.168.1.100", "level": "LOW", "fails": 5, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:39:30.201785Z", "event": "log_entry", "data": {"ip": "192.168.1.100", "status": "FAIL", "fails": 6}}
+{"timestamp": "2026-05-19T07:39:30.295481Z", "event": "threat_detected", "data": {"ip": "192.168.1.100", "level": "LOW", "fails": 6, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:39:30.495929Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 12}}
+{"timestamp": "2026-05-19T07:39:33.616737Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "HIGH", "fails": 12, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:39:33.616996Z", "event": "ai_analysis_start", "data": {"ip": "103.21.244.0", "fails": 12, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:39:39.820639Z", "event": "ai_analysis_complete", "data": {"ip": "103.21.244.0", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 12 failed login attempts from a single IP indicates potential brute-force activity, but 103.21.244.0/24 is a Cloudflare IP range, which could mean the true source is obscured behind a CDN/proxy, requiring validation before blocking legitimate infrastructure.\nACTION: Immediately check application logs to determine if X-Forwarded-For or CF-Connecting-IP headers reveal the true client IP behind this Cloudflare address.\nSELF-CHECK: Gaps include: unknown target account(s), time window of attempts, whether attempts used credential stuffing patterns or single-user targeting, and no visibility into whether this IP has historical benign traffic in our environment.", "tokens_used": 325}}
+{"timestamp": "2026-05-19T07:39:40.021235Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 11}}
+{"timestamp": "2026-05-19T07:39:43.108742Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "MEDIUM", "fails": 11, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:39:43.108958Z", "event": "ai_analysis_start", "data": {"ip": "198.51.100.5", "fails": 11, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:39:49.247470Z", "event": "ai_analysis_complete", "data": {"ip": "198.51.100.5", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 11 failed login attempts from a single IP exceeds normal threshold (typically 3-5) and indicates potential brute force activity, but falls below definitive attack patterns (50+) and lacks context on timeframe, targeted accounts, and geo/reputation data.\nACTION: Immediately query SIEM for full authentication logs from 198.51.100.5 in the last 24 hours, correlating with targeted usernames, success/failure ratio, and cross-reference against threat intelligence feeds.\nSELF-CHECK: Missing critical context: timeframe of attempts (11 in 1 minute vs 11 in 24 hours), whether any attempts succeeded, if this IP has legitimate historical access, reputation/geolocation data, and whether targeted accounts are privileged or service accounts.", "tokens_used": 345}}
+{"timestamp": "2026-05-19T07:39:49.648338Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 12}}
+{"timestamp": "2026-05-19T07:39:52.735484Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "HIGH", "fails": 12, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:39:52.735689Z", "event": "ai_analysis_start", "data": {"ip": "198.51.100.5", "fails": 12, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:39:57.229324Z", "event": "ai_analysis_complete", "data": {"ip": "198.51.100.5", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 12 failed login attempts from a single IP suggests a possible brute-force attack, but additional context (target accounts, time window, geographic origin) is needed to confirm malicious intent.\nACTION: Correlate the IP against threat intelligence feeds and check if targeted accounts share any patterns (e.g., privileged users, common naming conventions).\nSELF-CHECK: Missing time window for attempts, account types targeted, historical behavior of this IP, and whether any attempts succeeded.", "tokens_used": 275}}
+{"timestamp": "2026-05-19T07:39:57.629918Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 13}}
+{"timestamp": "2026-05-19T07:40:00.716779Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "HIGH", "fails": 13, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:40:00.716995Z", "event": "ai_analysis_start", "data": {"ip": "103.21.244.0", "fails": 13, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:40:07.057052Z", "event": "ai_analysis_complete", "data": {"ip": "103.21.244.0", "result": "**INITIATING THREAT ANALYSIS**\n\nLet me analyze this systematically.\n\n**Data Assessment:**\n- **IP:** 103.21.244.0 \u2014 This is within Cloudflare's IP range (103.21.244.0/22). This is critical context.\n- **Failed attempts:** 13 \u2014 Elevated but not extreme; could indicate password spraying, credential stuffing, or legitimate user error.\n- **Context:** Live monitoring \u2014 Requires timely but not reckless response.\n\n**Analysis:**\n\nThe IP belongs to Cloudflare infrastructure. This means the \"source\" is likely a proxy/CDN edge node, NOT the true attacker origin. Blocking this IP could disrupt legitimate traffic from users behind Cloudflare. The 13 failed attempts could be:\n1. Multiple users behind Cloudflare having issues\n2. An attacker routing through Cloudfl", "tokens_used": 356}}
+{"timestamp": "2026-05-19T07:40:07.457909Z", "event": "log_entry", "data": {"ip": "192.168.1.100", "status": "FAIL", "fails": 7}}
+{"timestamp": "2026-05-19T07:40:10.544735Z", "event": "threat_detected", "data": {"ip": "192.168.1.100", "level": "MEDIUM", "fails": 7, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:40:10.544897Z", "event": "ai_analysis_start", "data": {"ip": "192.168.1.100", "fails": 7, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:40:19.442212Z", "event": "ai_analysis_complete", "data": {"ip": "192.168.1.100", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: Seven failed login attempts from a single internal IP suggests either a misconfigured service, a user who forgot credentials, or potential credential stuffing/brute-force activity that warrants deeper review before escalation.\nACTION: Correlate this IP against Active Directory logs to identify the associated user account and determine if the failures target a single account (forgotten password) or multiple accounts (enumeration attempt).\nSELF-CHECK: Missing context includes the time window of attempts, targeted account(s), authentication protocol (RDP/SSH/web app), whether the IP is a known endpoint or unexpected, and baseline failure rates for this environment\u2014any of these could shift the verdict toward BLOCK or downgrade to MONITOR.", "tokens_used": 322}}
+{"timestamp": "2026-05-19T07:40:19.642765Z", "event": "log_entry", "data": {"ip": "203.0.113.42", "status": "FAIL", "fails": 6}}
+{"timestamp": "2026-05-19T07:40:22.728217Z", "event": "threat_detected", "data": {"ip": "203.0.113.42", "level": "LOW", "fails": 6, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:40:22.928732Z", "event": "log_entry", "data": {"ip": "203.0.113.42", "status": "FAIL", "fails": 7}}
+{"timestamp": "2026-05-19T07:40:26.023157Z", "event": "threat_detected", "data": {"ip": "203.0.113.42", "level": "MEDIUM", "fails": 7, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:40:26.023386Z", "event": "ai_analysis_start", "data": {"ip": "203.0.113.42", "fails": 7, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:40:33.270551Z", "event": "ai_analysis_complete", "data": {"ip": "203.0.113.42", "result": "VERDICT: INVESTIGATE\nCONFIDENCE: MEDIUM\nREASONING: 7 failed login attempts from a single IP warrants attention but falls below typical brute-force thresholds (usually 10+ attempts in short windows), and without timing data, geolocation context, or target account information, this could be legitimate user error or early-stage reconnaissance.\nACTION: Correlate this IP against authentication logs for the past 24 hours to determine attempt velocity, targeted accounts, and whether any successful authentications occurred.\nSELF-CHECK: Missing critical context\u2014time window of attempts, targeted username(s), whether attempts are distributed across accounts or focused, IP reputation/geolocation, and baseline for this environment's normal failed auth rate.", "tokens_used": 316}}
+{"timestamp": "2026-05-19T07:40:33.671758Z", "event": "log_entry", "data": {"ip": "198.51.100.5", "status": "FAIL", "fails": 13}}
+{"timestamp": "2026-05-19T07:40:36.762096Z", "event": "threat_detected", "data": {"ip": "198.51.100.5", "level": "HIGH", "fails": 13, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:40:36.762332Z", "event": "ai_analysis_start", "data": {"ip": "198.51.100.5", "fails": 13, "context": "live monitoring"}}
+{"timestamp": "2026-05-19T07:40:41.362890Z", "event": "ai_analysis_complete", "data": {"ip": "198.51.100.5", "result": "VERDICT: BLOCK\nCONFIDENCE: MEDIUM\nREASONING: 13 failed login attempts from a single IP in a short monitoring window indicates a likely brute-force attack, which warrants immediate blocking to prevent credential compromise.\nACTION: Add 198.51.100.5 to the firewall block list and trigger an alert for SOC review.\nSELF-CHECK: Gaps include lack of context on the time window of attempts, whether any succeeded, target account(s), geographic/reputation data for the IP, and whether this is part of a distributed attack pattern.", "tokens_used": 283}}
+{"timestamp": "2026-05-19T07:40:41.964631Z", "event": "log_entry", "data": {"ip": "103.21.244.0", "status": "FAIL", "fails": 14}}
+{"timestamp": "2026-05-19T07:40:45.055112Z", "event": "threat_detected", "data": {"ip": "103.21.244.0", "level": "HIGH", "fails": 14, "geo": "geo lookup unavailable"}}
+{"timestamp": "2026-05-19T07:40:45.055340Z", "event": "ai_analysis_start", "data": {"ip": "103.21.244.0", "fails": 14, "context": "live monitoring"}}
